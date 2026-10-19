@@ -20,8 +20,10 @@ API do BCB → extração e transformação → carga (CSV / SQLite) → anális
 
 ## Como rodar
 
-pip install -r requisitos.txt
+```bash
+pip install -r requirements.txt
 python main.py
+```
 
 ## Principais resultados
 
